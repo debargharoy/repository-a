@@ -8,3 +8,5 @@ This is commit 3 in B
 Commit on behind master
 
 Commit from behind master on RepoA
+
+Commit 2 from behind master on RepoA
